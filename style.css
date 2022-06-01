@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+   background-color: rgb(3, 67, 101);
+}
+
+body {
+    background-color: #f5f5f5;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    background-color: rgb(3, 67, 101);
+    width: 100%;
+    height: 80px;
+    margin-top: auto;
+    
+}
+
+a {
+    color: rgb(3, 67, 101);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(0, 187, 193);
+}    
+.cabecera {
+    width: 30%;
+    margin: 0 auto;
+       
+} 
+
+.cabecera img {
+    width: 100%;
+}
+
+
+nav {
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+ul {
+    list-style: none;
+      
+}
+
+nav ul li {
+    font-size: 150%;     
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+h2 {
+    text-align: center;
+    color: rgb(3, 67, 101);
+    width: 100%;
+    margin: 12px 0;
+}
+
+h3 {
+    text-align: left;
+    color: rgb(3, 67, 101);
+    width: 100%;
+    margin: 0 0 10px 20px;
+
+}
+   
+
+.precio{
+    text-align: right;
+    width: 30%;
+    float: right;
+    color: rgb(3, 67, 101);
+    padding-right: 20px;
+
+}
+
+.tipo{
+    text-align: left;
+    width: 40%;
+    float: left;
+    color: rgb(3, 67, 101);
+    padding-left: 20px; 
+    
+}
+
+.ingre {
+    width: 100%;
+    margin-top:  30px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(3, 67, 101);  
+    font-style: oblique;
+    font-size: small;
+    
+    }
+
+
+.jugos {
+    width: 100%;
+    margin-top:  67px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgb(3, 67, 101);   
+    font-style: oblique;
+    font-size: small;
+}
+
+.box-nav{
+     background-color: #f5f5f5;
+     position: relative;
+     border-radius: 25px;
+     box-shadow: 5px 5px 10px rgb(82, 79, 79);
+}
+
+/*
+.box-nav::after {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    content: " ";
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+    width: 100%;
+    height: 10px;
+    filter: blur(5px);
+    z-index: -1;
+
+    
+}
+
+
+
+/*
+.borde {
+    border: 1px solid #f5f5f5;
+    margin: 0 20px;
+    
+
+}*/
+
+
+
