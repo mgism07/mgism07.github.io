@@ -75,18 +75,22 @@ h2 {
 h3 {
     text-align: left;
     color: rgb(3, 67, 101);
-    width: 100%;
+    width: 90%;
     margin: 0 0 10px 20px;
     
 
 }
 
+
 .aguas {
     padding-top: 30px;
+    
+    
 }
 
 .cerveijas {
     padding-top: 10px;
+    
 }
    
 
