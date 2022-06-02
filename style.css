@@ -77,7 +77,16 @@ h3 {
     color: rgb(3, 67, 101);
     width: 100%;
     margin: 0 0 10px 20px;
+    
 
+}
+
+.aguas {
+    padding-top: 30px;
+}
+
+.cerveijas {
+    padding-top: 10px;
 }
    
 
@@ -114,7 +123,6 @@ h3 {
 .jugos {
     width: 100%;
     margin-top:  67px;
-    margin-bottom: 10px;
     text-align: center;
     color: rgb(3, 67, 101);   
     font-style: oblique;
